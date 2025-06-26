@@ -1,5 +1,6 @@
 # Matheus Costa Pereira
 
+
 ## 👨‍💻 About Me
 
 I work as a Data Scientist, also performing roles in Data Engineering and Data Analysis, always aiming to connect research with practical applications to generate real value for organizations. I have experience in statistical modeling, automation of data pipelines, creation of performance metrics (KPIs), and development of interactive dashboards and analyses using Python, R, C++, JavaScript, HTML, and CSS.
@@ -40,6 +41,10 @@ I have participated in projects focused on the development of predictive models,
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.simpleicons.org/ansys/ffb71b" alt="ANSYS" title="ANSYS"/>
 </p>
 
 ---
