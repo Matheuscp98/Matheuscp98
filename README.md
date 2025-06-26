@@ -46,7 +46,7 @@ I have participated in projects focused on the development of predictive models,
 
 ## 📊 Stats
 
-<p align="center">
+<p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusCostaPereira&show_icons=true&theme=algolia&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCostaPereira&layout=compact&theme=algolia" />
 </p>
