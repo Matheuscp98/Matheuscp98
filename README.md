@@ -7,14 +7,17 @@ I work as a Data Scientist, also performing roles in Data Engineering and Data A
 
 I have participated in projects focused on the development of predictive models, process optimization, statistical data analysis, and the construction of data visualizations, with an emphasis on solving complex problems and generating strategic recommendations. As a researcher, I work mainly with multiobjective optimization, machine learning, feature selection and importance, and multivariate statistical analysis. I enjoy working in multidisciplinary environments, improving communication between technical and business teams.
 
-<a href="mailto:matheusc_pereira@outlook.com">
-  <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/>
+<a href="mailto:matheusc_pereira@hotmail.com">
+  <img src="https://i.ibb.co/k6Ddn36k/email.png" alt="E-mail" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/matheuscostapereira/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://i.ibb.co/Kx4rZxdr/linkedin.png" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://scholar.google.com.br/citations?user=1iDBIzYAAAAJ&hl=en-us">
+  <img src="https://i.ibb.co/SwsRKK1t/scholar.png" alt="Google Scholar" height="40"/>
 </a>
 <a href="https://lattes.cnpq.br/7025666927284220">
-  <img src="https://img.shields.io/badge/Lattes-4169E1?style=for-the-badge&logoColor=white" alt="Lattes"/>
+  <img src="https://i.ibb.co/1fMjS38j/lattes.png" alt="Lattes" height="40"/>
 </a>
 
 ---
